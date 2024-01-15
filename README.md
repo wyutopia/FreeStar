@@ -1,0 +1,2 @@
+# FreeStar
+Free StarUML application
